@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements PermissionsListen
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        Mapbox.getInstance(this, "pk.eyJ1IjoiYW5yZ2FrbGEiLCJhIjoiY2pzem4zMWswMDk2czRhb296ampkNGJibSJ9.6-8R4zurua3dX8nzUfJmHQ");
+        Mapbox.getInstance(this, "api_key_here");
         setContentView(R.layout.activity_main);
         mapView = findViewById(R.id.mapView);
         mapView.onCreate(savedInstanceState);
