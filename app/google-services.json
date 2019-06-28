@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "927523681095",
+    "firebase_url": "https://whereami2-d39cd.firebaseio.com",
+    "project_id": "whereami2-d39cd",
+    "storage_bucket": "whereami2-d39cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927523681095:android:1b23ea4e7f337691",
+        "android_client_info": {
+          "package_name": "com.example.anurag.whereami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927523681095-9b0032uhul43e416ilq1lgfqmr80v97j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anurag.whereami",
+            "certificate_hash": "08ddbc27ba875086be48aae679db734dd9a29440"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Mb5NcoKz4moHj6611FTqhLHi5ZW3wEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927523681095-unmsvdrvt686u4lc4lqn04potduv11uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
